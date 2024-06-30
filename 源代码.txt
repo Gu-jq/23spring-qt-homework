@@ -1,0 +1,2 @@
+大作业提交时的最新版本：v1.0-beta
+程序包与源代码获取网址：https://github.com/Gu-jq/VSCode_Helper/releases
